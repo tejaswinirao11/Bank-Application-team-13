@@ -16,7 +16,7 @@ A responsive and user-friendly Loan Management System built with React, Firebase
 
 Here is the high-level structure of the project:
 
-![Project Structure](./assets/project-structure.png)
+![Project Structure](strcuture.png)
 
 
 ---
@@ -42,13 +42,13 @@ Here is the high-level structure of the project:
 ## 📸 Screenshots
 
 ### 🏠 Home Page
-![Home Page](./assets/home-page.png)
+![Home Page](profilepage.jpg)
 
 ### 📋 Loan Application
-![Loan Application](./assets/loan-application.png)
+![Loan Application](profilepage.jpg)
 
 ### 📊 Loan Calculator
-![Loan Calculator](./assets/loan-calculator.png)
+![Loan Calculator](calculator.jpg)
 
 ---
 
