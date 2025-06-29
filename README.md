@@ -12,12 +12,6 @@ A responsive and user-friendly Loan Management System built with React, Firebase
 
 ---
 
-## 📂 Project Structure
-
-Here is the high-level structure of the project:
-
-![Project Structure](strcuture.png)
-
 
 ---
 
